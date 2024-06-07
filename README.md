@@ -5,7 +5,7 @@
 ```
 docker build -t docker-jupyter-nb .
 ```
-Here the -t specifies the name. Change 'docker-jupyter-nb' to your preferred name.
+Here the -t specifies the name. Change 'docker-jupyter-nb' to your preferred name. The period at the end specifies to build the image in the current directory.
 
 2. To run the docker container: 
 ```
