@@ -1,4 +1,4 @@
-# docker_jupyter_nb
+### Hosting a Jupyter Notebook in Docker
 ### This is a repo for creating a docker container that hosts a jupyter notebook running python for data science, with data science dependencies installed
 
 To run the docker container: 
